@@ -1,3 +1,10 @@
-# sinatra-omnicalc-2
+# ruby-sinatra-omnicalc-2
 
-Target: https://omnicalc-2.matchthetarget.com/
+## Description
+This is a calculator program in Ruby & Sinatra
+
+## Starting the Application
+To start the application:
+```
+ruby app.rb
+```
